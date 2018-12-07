@@ -1,8 +1,8 @@
 # INFO6205_217
 
 ## Team member:
-Haoyu Yin NUID: 001875345,__
-Jianxi Li NUID:,__
+Haoyu Yin NUID: 001875345,__  
+Jianxi Li NUID:,__  
 Mingguan Liu NUID: 001816222
 
 ## Problem Describe:
