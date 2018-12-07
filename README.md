@@ -15,3 +15,8 @@ Unfortunately, Robi is only able to observe the 5 grid around him. The UP, DOWN,
 ![image](https://github.com/mattliu777/INFO6205_217/blob/master/slides/move.jpg)
 
 Our goal is helping Robi find the best route(strategy) to get the heightest score(collect all soda cans without hitting walls and picking up nothing) by using Genetic Algorithms. 
+
+
+## TestCase Screen Shot
+![image](https://github.com/mattliu777/INFO6205_217/blob/master/slides/test.png)
+![image](https://github.com/mattliu777/INFO6205_217/blob/master/slides/test2.png)
