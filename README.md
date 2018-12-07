@@ -11,3 +11,5 @@ Robi is a self-directed robot and its task is to pick up the garbage in a M*M ma
 Unfortunately, Robi is only able to observe the 5 grid around him. The UP, DOWN, LEFT, RIGHT and  the grid the robot is staying.
 
 ![image](https://github.com/mattliu777/INFO6205_217/blob/master/slides/move.jpg)
+
+Our goal is helping Robi find the best route(strategy) to get the heightest score(collect all soda cans without hitting walls and picking up nothing) by using Genetic Algorithms. 
