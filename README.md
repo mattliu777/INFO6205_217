@@ -1,7 +1,9 @@
 # INFO6205_217
 
 ## Team member:
-Haoyu Yin, Jianxi Li, Mingguan Liu
+Haoyu Yin NUID:001875345,
+Jianxi Li NUID:,
+Mingguan Liu NUID:001816222
 
 ## Problem Describe:
 Robi is a self-directed robot and its task is to pick up the garbage in a M*M map. In this game Robi have a limited steps of movements.  In the limited movements Robi need to get a grade as high as possible.
